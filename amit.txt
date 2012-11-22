@@ -1,3 +1,5 @@
 Hello world..This is the firts time i m using git
 
 After few more times, I would start with the project
+
+This is a nice thing to use..I guess you dont even need a remote repository..you could have a local repor to have local source control.
